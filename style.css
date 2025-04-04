@@ -1,5 +1,3 @@
-#fejleckep{
-    display: block;
-    margin-right: auto;
-    margin-left: auto;
+.banner{
+    background: url(../img/fejleckep.webp);
 }
