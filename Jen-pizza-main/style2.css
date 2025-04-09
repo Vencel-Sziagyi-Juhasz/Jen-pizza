@@ -1,7 +1,10 @@
 .banner{ 
     background-image: url(https://fotografias.larazon.es/clipping/cmsimages02/2023/02/11/0BD212ED-C2EB-4037-911E-0B0712BC09BE/pizzas-identidad-propia_98.jpg?crop=5472,3079,x0,y187&width=1900&height=1069&optimize=low&format=webply);
     width: 100%;
-    height: 200px;
+    height: 400px;
+    background-size: cover;
+    background-position: center center;
+    border: 5px solid #000000;
 }
 
 body{
@@ -16,6 +19,8 @@ background-image: url(https://img.freepik.com/free-vector/seamless-pizza-ingredi
     width: 100%;
     height: 100%;
     background-color: rgba(192, 192, 192, 0.658);
+    border-radius: 25px;
+    box-shadow: 10px 10px rgba(0, 0, 0, 0.425) ;
 }
 
 .sizebox{
