@@ -47,6 +47,14 @@ button{
     box-shadow: 10px 10px rgba(0, 0, 0, 0.425);
 }
 
+#logo{
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: antiquewhite;
+    -webkit-text-stroke-color: black; 
+    -webkit-text-stroke-width: 0.4mm;
+}
+
 
 h2{
     text-align: center;
