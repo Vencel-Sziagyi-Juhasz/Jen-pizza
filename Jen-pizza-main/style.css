@@ -1,0 +1,31 @@
+.banner{
+    background-image: url(https://fotografias.larazon.es/clipping/cmsimages02/2023/02/11/0BD212ED-C2EB-4037-911E-0B0712BC09BE/pizzas-identidad-propia_98.jpg?crop=5472,3079,x0,y187&width=1900&height=1069&optimize=low&format=webply);
+    width: 100%;
+    height: 500px;
+}
+
+body{
+    background: #e4e4e4;
+background: radial-gradient(circle, rgb(247, 247, 247) 0%, rgb(0, 0, 0) 100%);
+background-image: url(https://img.freepik.com/free-vector/seamless-pizza-ingredients_1176-269.jpg?t=st=1744050779~exp=1744054379~hmac=59285956396db2483bdf8fadb850ffc9e81242fa5662b8267284806cee1483e1&w=740);
+}
+
+
+.container{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(192, 192, 192, 0.658);
+}
+
+
+.box{
+    width: 300px;
+    height: 200px;
+    background-color: rgb(238, 238, 238);
+    margin: 20px;
+}
+
+
+#pizza1 {
+    height: 175px;
+}
